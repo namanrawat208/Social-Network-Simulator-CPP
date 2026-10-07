@@ -1,0 +1,1 @@
+g++ -o Naman main.cpp
